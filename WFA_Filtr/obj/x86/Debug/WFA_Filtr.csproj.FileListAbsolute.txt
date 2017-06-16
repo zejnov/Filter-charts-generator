@@ -1,0 +1,33 @@
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\bin\Debug\WFA_Filtr.exe
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\bin\Debug\WFA_Filtr.pdb
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Form1.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Properties.Resources.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.csproj.GenerateResource.Cache
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.exe
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.pdb
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.csprojResolveAssemblyReference.cache
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Dialog_nap.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Dialog_obw.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\WFA_Filtr\WFA_Filtr\obj\x86\Debug\WFA_Filtr.About.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.pdb
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\bin\Debug\WFA_Filtr.exe
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\bin\Debug\WFA_Filtr.pdb
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.csprojResolveAssemblyReference.cache
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.About.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Dialog_nap.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Dialog_obw.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Form1.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Properties.Resources.resources
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.csproj.GenerateResource.Cache
+D:\DOKUMENTOS\Dropbox\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.exe
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\bin\Debug\WFA_Filtr.exe
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\bin\Debug\WFA_Filtr.pdb
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.csprojResolveAssemblyReference.cache
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.About.resources
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Dialog_nap.resources
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Dialog_obw.resources
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Form1.resources
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.Properties.Resources.resources
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.csproj.GenerateResource.Cache
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.exe
+E:\Dokumenty\Dropbox\MMMGR\Magisterskie semy\S III\PAK\ZejnoProjekT\Szwaba_Mateusz_PAK\WFA_Filtr\obj\x86\Debug\WFA_Filtr.pdb
